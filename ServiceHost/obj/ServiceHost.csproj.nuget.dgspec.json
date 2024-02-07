@@ -1,0 +1,355 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Armin\\source\\repos\\Armin\\Code\\IMSLP_Project\\ServiceHost\\ServiceHost.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Armin\\source\\repos\\Armin\\Code\\IMSLP_Project\\AccountManagement.Application\\AccountManagement.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Armin\\source\\repos\\Armin\\Code\\IMSLP_Project\\AccountManagement.Application\\AccountManagement.Application.csproj",
+        "projectName": "AccountManagement.Application",
+        "projectPath": "C:\\Users\\Armin\\source\\repos\\Armin\\Code\\IMSLP_Project\\AccountManagement.Application\\AccountManagement.Application.csproj",
+        "packagesPath": "C:\\Users\\Armin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Armin\\source\\repos\\Armin\\Code\\IMSLP_Project\\AccountManagement.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Armin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Armin\\source\\repos\\Armin\\Code\\IMSLP_Project\\AccountManagemnt.Domain\\AccountManagemnt.Domain.csproj": {
+                "projectPath": "C:\\Users\\Armin\\source\\repos\\Armin\\Code\\IMSLP_Project\\AccountManagemnt.Domain\\AccountManagemnt.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Armin\\source\\repos\\Armin\\Code\\IMSLP_Project\\AccountManagement.Infra.Data\\AccountManagement.Infra.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Armin\\source\\repos\\Armin\\Code\\IMSLP_Project\\AccountManagement.Infra.Data\\AccountManagement.Infra.Data.csproj",
+        "projectName": "AccountManagement.Infra.Data",
+        "projectPath": "C:\\Users\\Armin\\source\\repos\\Armin\\Code\\IMSLP_Project\\AccountManagement.Infra.Data\\AccountManagement.Infra.Data.csproj",
+        "packagesPath": "C:\\Users\\Armin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Armin\\source\\repos\\Armin\\Code\\IMSLP_Project\\AccountManagement.Infra.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Armin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Armin\\source\\repos\\Armin\\Code\\IMSLP_Project\\AccountManagemnt.Domain\\AccountManagemnt.Domain.csproj": {
+                "projectPath": "C:\\Users\\Armin\\source\\repos\\Armin\\Code\\IMSLP_Project\\AccountManagemnt.Domain\\AccountManagemnt.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Armin\\source\\repos\\Armin\\Code\\IMSLP_Project\\AccountManagement.Infra.IOC\\AccountManagement.Infra.IOC.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Armin\\source\\repos\\Armin\\Code\\IMSLP_Project\\AccountManagement.Infra.IOC\\AccountManagement.Infra.IOC.csproj",
+        "projectName": "AccountManagement.Infra.IOC",
+        "projectPath": "C:\\Users\\Armin\\source\\repos\\Armin\\Code\\IMSLP_Project\\AccountManagement.Infra.IOC\\AccountManagement.Infra.IOC.csproj",
+        "packagesPath": "C:\\Users\\Armin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Armin\\source\\repos\\Armin\\Code\\IMSLP_Project\\AccountManagement.Infra.IOC\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Armin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Armin\\source\\repos\\Armin\\Code\\IMSLP_Project\\AccountManagement.Application\\AccountManagement.Application.csproj": {
+                "projectPath": "C:\\Users\\Armin\\source\\repos\\Armin\\Code\\IMSLP_Project\\AccountManagement.Application\\AccountManagement.Application.csproj"
+              },
+              "C:\\Users\\Armin\\source\\repos\\Armin\\Code\\IMSLP_Project\\AccountManagement.Infra.Data\\AccountManagement.Infra.Data.csproj": {
+                "projectPath": "C:\\Users\\Armin\\source\\repos\\Armin\\Code\\IMSLP_Project\\AccountManagement.Infra.Data\\AccountManagement.Infra.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Armin\\source\\repos\\Armin\\Code\\IMSLP_Project\\AccountManagemnt.Domain\\AccountManagemnt.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Armin\\source\\repos\\Armin\\Code\\IMSLP_Project\\AccountManagemnt.Domain\\AccountManagemnt.Domain.csproj",
+        "projectName": "AccountManagemnt.Domain",
+        "projectPath": "C:\\Users\\Armin\\source\\repos\\Armin\\Code\\IMSLP_Project\\AccountManagemnt.Domain\\AccountManagemnt.Domain.csproj",
+        "packagesPath": "C:\\Users\\Armin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Armin\\source\\repos\\Armin\\Code\\IMSLP_Project\\AccountManagemnt.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Armin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Armin\\source\\repos\\Armin\\Code\\IMSLP_Project\\ServiceHost\\ServiceHost.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Armin\\source\\repos\\Armin\\Code\\IMSLP_Project\\ServiceHost\\ServiceHost.csproj",
+        "projectName": "ServiceHost",
+        "projectPath": "C:\\Users\\Armin\\source\\repos\\Armin\\Code\\IMSLP_Project\\ServiceHost\\ServiceHost.csproj",
+        "packagesPath": "C:\\Users\\Armin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Armin\\source\\repos\\Armin\\Code\\IMSLP_Project\\ServiceHost\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Armin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Armin\\source\\repos\\Armin\\Code\\IMSLP_Project\\AccountManagement.Infra.IOC\\AccountManagement.Infra.IOC.csproj": {
+                "projectPath": "C:\\Users\\Armin\\source\\repos\\Armin\\Code\\IMSLP_Project\\AccountManagement.Infra.IOC\\AccountManagement.Infra.IOC.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

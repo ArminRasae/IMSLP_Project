@@ -1,0 +1,16 @@
+C:\Users\Armin\source\repos\Armin\Code\IMSLP_Project\AccountManagement.Application\obj\Debug\net8.0\AccountManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armin\source\repos\Armin\Code\IMSLP_Project\AccountManagement.Application\obj\Debug\net8.0\AccountManagement.Application.AssemblyInfoInputs.cache
+C:\Users\Armin\source\repos\Armin\Code\IMSLP_Project\AccountManagement.Application\obj\Debug\net8.0\AccountManagement.Application.AssemblyInfo.cs
+C:\Users\Armin\source\repos\Armin\Code\IMSLP_Project\AccountManagement.Application\obj\Debug\net8.0\AccountManagement.Application.csproj.CoreCompileInputs.cache
+C:\Users\Armin\source\repos\Armin\Code\IMSLP_Project\AccountManagement.Application\obj\Debug\net8.0\AccountManagement.Application.sourcelink.json
+C:\Users\Armin\source\repos\Armin\Code\IMSLP_Project\AccountManagement.Application\obj\Debug\net8.0\AccountManagement.Application.csproj.AssemblyReference.cache
+C:\Users\Armin\source\repos\Armin\Code\IMSLP_Project\AccountManagement.Application\bin\Debug\net8.0\AccountManagement.Application.deps.json
+C:\Users\Armin\source\repos\Armin\Code\IMSLP_Project\AccountManagement.Application\bin\Debug\net8.0\AccountManagement.Application.dll
+C:\Users\Armin\source\repos\Armin\Code\IMSLP_Project\AccountManagement.Application\bin\Debug\net8.0\AccountManagement.Application.pdb
+C:\Users\Armin\source\repos\Armin\Code\IMSLP_Project\AccountManagement.Application\bin\Debug\net8.0\AccountManagemnt.Domain.dll
+C:\Users\Armin\source\repos\Armin\Code\IMSLP_Project\AccountManagement.Application\bin\Debug\net8.0\AccountManagemnt.Domain.pdb
+C:\Users\Armin\source\repos\Armin\Code\IMSLP_Project\AccountManagement.Application\obj\Debug\net8.0\AccountManagement.Application.csproj.CopyComplete
+C:\Users\Armin\source\repos\Armin\Code\IMSLP_Project\AccountManagement.Application\obj\Debug\net8.0\AccountManagement.Application.dll
+C:\Users\Armin\source\repos\Armin\Code\IMSLP_Project\AccountManagement.Application\obj\Debug\net8.0\refint\AccountManagement.Application.dll
+C:\Users\Armin\source\repos\Armin\Code\IMSLP_Project\AccountManagement.Application\obj\Debug\net8.0\AccountManagement.Application.pdb
+C:\Users\Armin\source\repos\Armin\Code\IMSLP_Project\AccountManagement.Application\obj\Debug\net8.0\ref\AccountManagement.Application.dll

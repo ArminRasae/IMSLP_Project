@@ -1,0 +1,12 @@
+C:\Users\Armin\source\repos\Armin\Code\IMSLP_Project\AccountManagemnt.Domain\bin\Debug\net8.0\AccountManagemnt.Domain.deps.json
+C:\Users\Armin\source\repos\Armin\Code\IMSLP_Project\AccountManagemnt.Domain\bin\Debug\net8.0\AccountManagemnt.Domain.dll
+C:\Users\Armin\source\repos\Armin\Code\IMSLP_Project\AccountManagemnt.Domain\bin\Debug\net8.0\AccountManagemnt.Domain.pdb
+C:\Users\Armin\source\repos\Armin\Code\IMSLP_Project\AccountManagemnt.Domain\obj\Debug\net8.0\AccountManagemnt.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armin\source\repos\Armin\Code\IMSLP_Project\AccountManagemnt.Domain\obj\Debug\net8.0\AccountManagemnt.Domain.AssemblyInfoInputs.cache
+C:\Users\Armin\source\repos\Armin\Code\IMSLP_Project\AccountManagemnt.Domain\obj\Debug\net8.0\AccountManagemnt.Domain.AssemblyInfo.cs
+C:\Users\Armin\source\repos\Armin\Code\IMSLP_Project\AccountManagemnt.Domain\obj\Debug\net8.0\AccountManagemnt.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Armin\source\repos\Armin\Code\IMSLP_Project\AccountManagemnt.Domain\obj\Debug\net8.0\AccountManagemnt.Domain.sourcelink.json
+C:\Users\Armin\source\repos\Armin\Code\IMSLP_Project\AccountManagemnt.Domain\obj\Debug\net8.0\AccountManagemnt.Domain.dll
+C:\Users\Armin\source\repos\Armin\Code\IMSLP_Project\AccountManagemnt.Domain\obj\Debug\net8.0\refint\AccountManagemnt.Domain.dll
+C:\Users\Armin\source\repos\Armin\Code\IMSLP_Project\AccountManagemnt.Domain\obj\Debug\net8.0\AccountManagemnt.Domain.pdb
+C:\Users\Armin\source\repos\Armin\Code\IMSLP_Project\AccountManagemnt.Domain\obj\Debug\net8.0\ref\AccountManagemnt.Domain.dll
